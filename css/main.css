@@ -1,0 +1,97 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background-image:url(../images/bg.jpg);
+	background-size: 100%;
+}
+.text{
+	font-size: 35px;
+	color: #fff;
+	font-family:"楷体";
+	font-weight: bold;
+	text-align: center;
+	margin-top: 55px;
+
+}
+.main{
+	position: absolute;
+	top: 200px;
+	left: 497px;
+	width: 360px;
+	height: 373px;
+	background-color: #FFF;
+}
+.main p{
+	color:#ff7f50;
+	text-align: center;
+	font-size: 27px;
+	margin:20px auto;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #CCC;
+	width: 300px;
+}
+
+ .input{
+ 	width:300px;
+ 	height: 40px;
+ 	margin:10px 30px;
+ 	font-size: 15px;
+ 	border:1px solid #CCC;
+ }
+
+
+ #checkbox{
+ 	color: #0b1616;
+ 	margin-left: 30px;
+ 	margin-right: 5px;
+ 	
+ }
+label{
+	font-size: 13px;
+}
+#pw{
+  margin-left:148px;
+  cursor: pointer;
+  color: #6cd5ff;
+  text-decoration: none;
+  font-size: 13px;
+}
+#submit{
+	width:300px;
+ 	height: 40px;
+ 	margin:10px 30px;
+ 	font-size: 15px;
+ 	background-color: #ff7f50;
+ 	color: #fff;
+ 	cursor: pointer;
+}
+span{
+	margin:10px 30px;
+	 font-size: 13px;
+}
+span a{
+	margin:10px 5px;
+	 cursor: pointer;
+  color: #6cd5ff;
+  text-decoration: none;
+  font-size: 13px;
+}
+.other{
+	font-size: 16px;
+	color: #CCC;
+	margin:20px 30px;
+}
+.icon{
+	margin-left: 200px;
+	margin-top: -50px;
+}
+.icon a{
+	margin:5px;
+	color:#636363;
+}
+
+.icon a:hover{
+	color:#AEEEEE;
+}
